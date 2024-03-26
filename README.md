@@ -1,29 +1,25 @@
-# nebraska_v2_vuejs
-
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+new update on branch development :
+<br>
+[Visit my Nebraska static use ( HTML , css js )](https://www.nebraskav2.sulaslansetiawan.cfd)
+<br>
+[Nebraska v2 laravel 11](https://github.com/aslan-asilon31/nebraska_v2_laravel11)
+<br>
+[Nebraska v2 laravel 10](https://github.com/aslan-asilon31/nebraska_laravel10)
+<br>
+[Nebraska v2 Codeigniter 4](https://github.com/aslan-asilon31/nebraska_v2_codeigniter4)
+<br>
+[Nebraska v2 Yii2](https://github.com/aslan-asilon31/nebraska_v2_yii2)
+<br>
+[Nebraska v2 Python Django](https://github.com/aslan-asilon33/nebraska_v2_django.git)
+<br>
+[Nebraska v2 NestJS](https://github.com/aslan-asilon34/nebraska_v2_nestjs.git)
+<br>
+[Nebraska v2 NuxtJS](https://github.com/aslan-asilon34/nebraska_v2_nuxtjs.git)
+<br>
+[Nebraska v2 NextJS](https://github.com/aslan-asilon34/nebraska_v2_nextjs.git)
+<br>
+[Nebraska v2 VueJS](https://github.com/aslan-asilon34/nebraska_v2_vuejs.git)
+<br>
+[Nebraska v2 ReactJS](https://github.com/aslan-asilon34/nebraska_v2_vuejs.git)
+<br>
+![vuejs](https://github.com/aslan-asilon34/nebraska_v2_vuejs/assets/118856601/75fe4be6-9196-4a42-ab8f-0f2c5f19580a)
